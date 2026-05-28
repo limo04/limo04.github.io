@@ -1,12 +1,13 @@
+- Second-Class University Scholarship, 2024.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-Class University Scholarship, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- National Encouragement Scholarship, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Research Innovation Scholarship, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Outstanding Student of University, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Provincial Third Prize, 15th Blue Bridge Cup C/C++ Programming Competition, 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Provincial Third Prize, 16th Blue Bridge Cup Python Programming Competition, 2025.
