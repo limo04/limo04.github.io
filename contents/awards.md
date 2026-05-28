@@ -1,4 +1,3 @@
-#### Awards
 
 - Second-Class University Scholarship, 2024.
 
