@@ -1,17 +1,11 @@
-
-
-
-
 He is currently pursuing his Bachelor's degree in Software Engineering at Hubei University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: lichuan041222[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Software Engineering, Hubei University, 2023—Present.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+LLM Agent Fault Analysis; Multi-Agent Reinforcement Learning; Artificial Intelligence for Software Engineering; Large Language Model Reliability
